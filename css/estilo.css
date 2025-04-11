@@ -1,17 +1,16 @@
-h1{
+h1 {
     color: #00a700;
 }
-p{
+p {
     color: #09ff00;
 }
-body{
+body {
     background-color: #5e6666
 }
-.exemplo-back{
+.exemplo-back {
     height: 600px;
-    background:#ff0000;
     background-image:url(../img/pexels-andrei-iusco-23254751-6661600.jpg);
-   background-size:cover;
-   background-repeat: no-repeat;
-   background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
