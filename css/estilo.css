@@ -1,43 +1,25 @@
-h1 {
-    color: #ffffff;
-    text-align: center;
-    margin-top: 20px;
+body{
+    background-color: white;
 }
-p {
+h1{
     color: #ffffff;
-    width: 100%;
-    max-width: 600px;
-    border-radius: 10px;
-    box-shadow: 20px 20px 25px #0000004d;
+    border: 1px solid black;
+    border-radius: 30px;
     text-align: center;
-    margin-top: 50px;
-    margin-top: 10px;
-    color: #ffffff;
-    background: #4763be;
+    background: black;
+    margin: 64px 512px 64px 512px;
 }
-body {
-    background-color: #6b6969
+p{
+    color: red;
+    /* margin-bottom: 40px;
+    margin-left: 10px; */
+    margin: 0px 256px 18px 256px;
 }
 .exemplo-back {
     height: 600px;
-    border-radius: 20px ;
     background-image:url(../img/pexels-andrei-iusco-23254751-6661600.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     background-position: center;
-    margin: 300px;
-    margin-top: 70px;
-    margin-bottom: 70px;
-    box-shadow: 40px 40px 20px -4px #3a3636;
+    margin: 0px 256px 24px 256px;
 }
-img {
-    width: 100%;
-    border-radius: 15px;
-    box-shadow: 0px 5px 15px rgba(0,0,0,0.3);
-}
-  .container {
-    text-align: center;
-    max-width: 800px;
-    margin: auto;
-}
-  
